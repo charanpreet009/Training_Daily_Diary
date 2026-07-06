@@ -1,6 +1,5 @@
 # Day 1 – Introduction to Data, Data Analysis, Machine Learning & Generative AI
 
-Today, I started my data science training journey by learning the fundamentals of data, different types of data, data analysis, machine learning, generative AI, and datasets. v
 
 ---
 
