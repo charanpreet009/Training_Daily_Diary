@@ -1,1 +1,1 @@
-# Traning_Daily_Diary
+# Training_Daily_Diary
