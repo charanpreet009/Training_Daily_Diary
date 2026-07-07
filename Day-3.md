@@ -233,14 +233,6 @@ Here, **120** is an outlier because it is much larger than the other values.
 
 ---
 
-# Why are Outliers Important?
-
-Outliers can:
-
-* Affect the mean of the data.
-* Reduce the accuracy of machine learning models.
-* Lead to incorrect analysis and predictions.
-* Distort statistical calculations.
 
 ---
 
