@@ -11,8 +11,7 @@ Today, I continued my training by learning about data, different types of data, 
 * Python Data Structures
 * Pandas Data Structures
 * Data Pipeline
-* Data Transformation
-
+* Data Transformation 
 ---
 
 # What is Data?
