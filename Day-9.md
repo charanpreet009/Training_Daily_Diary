@@ -96,17 +96,6 @@ Where:
 * **Z-Score between -3 and +3** → Normal value
 * **Z-Score less than -3 or greater than +3** → Possible anomaly (outlier)
 
-### Python Example
-
-```python
-from scipy.stats import zscore
-
-df["Z_Score"] = zscore(df["Salary"])
-
-outliers = df[df["Z_Score"].abs() > 3]
-
-print(outliers)
-```
 
 ### Advantages
 
