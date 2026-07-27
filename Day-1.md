@@ -1,6 +1,6 @@
 # Day 1 – Introduction to Data, Data Analysis, Machine Learning & Generative AI
 ---
-*Today, I started my training journey in "Next-Gen Data Exploration with ML and Generative AI" and learned the fundamental concepts of data, data analysis, machine learning, and datasets.
+Today, I started my training journey in "Next-Gen Data Exploration with ML and Generative AI" and learned the fundamental concepts of data, data analysis, machine learning, and datasets.
 
 ---
 
